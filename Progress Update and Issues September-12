@@ -1,4 +1,9 @@
 Nadir - Image Processing and MCU:
+-Ordered new camera that did not work. Cable was wrong size.
+-Trying to rebuild OpenCV from source one more time with the latest
+ version and with ffmpeg & Gstreamer support.
+-spoke briefly with toradex support to get an issue started and to get some
+ help with the camera integration. Not helpful
 
 Jacob - Hardware & Motor Control:
 Stepper motors and extension cables have been purchased(9/10) and received (9/12)
