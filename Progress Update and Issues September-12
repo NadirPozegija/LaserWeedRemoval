@@ -1,9 +1,4 @@
 Nadir - Image Processing and MCU:
--Ordered new camera that did not work. Cable was wrong size.
--Trying to rebuild OpenCV from source one more time with the latest
- version and with ffmpeg & Gstreamer support.
--spoke briefly with toradex support to get an issue started and to get some
- help with the camera integration. Not helpful
 
 Jacob - Hardware & Motor Control:
 Stepper motors and extension cables have been purchased(9/10) and received (9/12)
@@ -12,4 +7,9 @@ PCB is in-progress but I need to find a way to reduce to 1oz copper from 3oz. Th
 
 Andrew - 
 
-Karthik -
+Karthik - Laser Research & Analysis
++ Met with Extended team to layout Requirements for this Semester
++ Start Broad Analysis trials with 7W laser and obtain/display data findings
++ Submitted Quote Proposal for lasers for Approval to Muthu, Vijay, and Chengsong
++ Continue search for 15/20W laser on Alibaba & f theta lens research for possible laser use
++ Start Broad Analysis trials with 7W laser and obtain/display data findings
